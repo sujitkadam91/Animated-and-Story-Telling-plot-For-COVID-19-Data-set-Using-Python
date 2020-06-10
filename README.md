@@ -9,7 +9,7 @@ import pandas as pd # data processing
 
 import matplotlib.pyplot as plt
 
-from PIL import Image
+import bar_chart_race as bcr
 
 import seaborn as sns 
 
