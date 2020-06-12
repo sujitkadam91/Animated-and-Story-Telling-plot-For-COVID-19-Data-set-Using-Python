@@ -24,7 +24,7 @@ data_1 = pd.read_csv("corona_dat.csv")
 
 data_1.head() # to print first rows
 
-#### Choose the 
+#### Sekect the countries for bar plot
 
 cols =['date','Italy','China','Australia','Brazil','India','United Kingdom','Pakistan','Spain','Canada','New Zealand']
 
